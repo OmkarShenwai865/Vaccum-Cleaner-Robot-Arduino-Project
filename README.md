@@ -21,7 +21,7 @@ Once powered on, the robot:
 
 ---
 
-## Demo Video
+## 📹 Demo
 
 Here is my demo video: [Watch on YouTube](https://youtu.be/TGqBUhFke64?si=WkEMxCyYSG67kb0R)
 
