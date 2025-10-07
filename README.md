@@ -46,3 +46,17 @@ A basic but effective prototype demonstrating the **integration of movement and 
 └── /docs
   └── Project Documentation
 ```
+
+## 💡 Future Improvements:
+
+1. Add ultrasonic sensors for obstacle detection.
+2. Implement IR sensors for edge avoidance.
+3. Upgrade to a rechargeable Li-ion battery system.
+4. Include Bluetooth/Wi-Fi module for remote monitoring.
+
+## 🧠 Author:
+
+Omkar Shenwai
+
+An Arduino enthusiast exploring robotics and automation.
+
