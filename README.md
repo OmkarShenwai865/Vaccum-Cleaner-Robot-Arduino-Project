@@ -28,10 +28,13 @@ A basic but effective prototype demonstrating the integration of movement and cl
 📂 Repository Structure
 
 ├── README.md
+
 ├── /images
 │   └── robot.jpg
+
 ├── /code
 │   └── vacuum_cleaner.ino
+
 └── /docs
     └── circuit_diagram.png
 
@@ -45,4 +48,5 @@ A basic but effective prototype demonstrating the integration of movement and cl
 🧠 Author:
 
 Omkar Shenwai
+
 An Arduino enthusiast exploring robotics and automation.
