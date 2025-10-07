@@ -2,6 +2,8 @@ Autonomous Vacuum Cleaner Robot
 🧹 Project Overview
 This project is a simple autonomous vacuum cleaner robot built using an Arduino. It continuously moves forward using four DC motors while a separate motor powers a vacuum mechanism to clean debris along the way.
 
+![image alt](https://github.com/OmkarShenwai865/Vaccum-Cleaner-Robot-Arduino-Project/blob/f0b3bd7bdf866e55061598da15a70573b18ad605/arduinoproject.jpg)
+
 🔧 Key Components
 Arduino Board: Acts as the brain of the robot, running the control logic.
 
