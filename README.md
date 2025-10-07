@@ -32,7 +32,7 @@ A basic but effective prototype demonstrating the **integration of movement and 
 ---
 
 ## 📂 Repository Structure
-'''
+```
 ├── README.md
 ├── /images
 │ └── arduinoproject.jpg
@@ -40,4 +40,4 @@ A basic but effective prototype demonstrating the **integration of movement and 
 │ └── vacuum_cleaner.ino
 └── /docs
   └── Project Documentation
-'''
+```
