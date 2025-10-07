@@ -31,7 +31,7 @@ A basic but effective prototype demonstrating the integration of movement and cl
 
 ├── /images
 
-   └── robot.jpg
+         └── robot.jpg
 
 ├── /code
 
