@@ -21,6 +21,11 @@ Once powered on, the robot:
 
 ---
 
+## Demo Video
+
+Here is my demo video: [Watch on YouTube](https://youtu.be/TGqBUhFke64?si=WkEMxCyYSG67kb0R)
+
+
 ## ✅ Conclusion
 A basic but effective prototype demonstrating the **integration of movement and cleaning features** using **Arduino** and **motor control**.
 
