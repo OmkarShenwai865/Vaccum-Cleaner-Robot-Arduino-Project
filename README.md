@@ -24,3 +24,25 @@ A basic but effective prototype demonstrating the integration of movement and cl
 🖼️ Project Image:
 
 ![image alt](https://github.com/OmkarShenwai865/Vaccum-Cleaner-Robot-Arduino-Project/blob/f0b3bd7bdf866e55061598da15a70573b18ad605/arduinoproject.jpg)
+
+📂 Repository Structure
+
+├── README.md
+├── /images
+│   └── robot.jpg
+├── /code
+│   └── vacuum_cleaner.ino
+└── /docs
+    └── circuit_diagram.png
+
+💡 Future Improvements:
+
+- Add ultrasonic sensors for obstacle detection.
+- Implement IR sensors for edge avoidance.
+- Upgrade to a rechargeable Li-ion battery system.
+- Include Bluetooth/Wi-Fi module for remote monitoring.
+
+🧠 Author:
+
+Omkar Shenwai
+An Arduino enthusiast exploring robotics and automation.
